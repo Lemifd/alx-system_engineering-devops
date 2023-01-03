@@ -1,2 +1,1 @@
-# What happens when you type https://www.google.com in your browser and press Enter
-
+# What happens when you type Google.com in your browser and press enter??
